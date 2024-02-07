@@ -1,0 +1,1 @@
+import{_ as e,v as t,t as s,x as o}from"./entry.dGBQf-sn.js";const c={},n=o("p",null,"This page will be displayed at the / route.",-1),a=[n];function r(_,l){return s(),t("section",null,a)}const d=e(c,[["render",r]]);export{d as default};
